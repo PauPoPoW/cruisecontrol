@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title><![CDATA[Cruise Control]]></title>
+    <description><![CDATA[Serena, Paulin et leurs invité·e·s retracent la carrière de Tom Cruise dans l'ordre chronologique.
+
+Une grande et noble quête de LA grande question du cinéma...
+"Pourquoi Tom Cruise est la dernière star d'Hollywood ?"
+
+Attention, aucun expert ne donne son avis... seulement des amateur·rice·s incompétent·e·s mais furieusement enthousiastes.]]></description>
+    <link>https://cruisecontrol.carrd.co</link>
+    <language>fr</language>
+    <copyright><![CDATA[Serena &amp; Paulin]]></copyright>
+    <managingEditor><![CDATA[cruisecontrol@vivaldi.net (Serena &amp; Paulin)]]></managingEditor>
+    <image>
+      <url>https://archive.org/download/cruisecontrol-podcast/cover.jpg</url>
+      <title>Cruise Control</title>
+      <link>https://cruisecontrol.carrd.co</link>
+    </image>
+    <atom:link href="https://paupopow.github.io/cruisecontrol/rss.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+    <itunes:summary><![CDATA[Serena, Paulin et leurs invité·e·s retracent la carrière de Tom Cruise dans l'ordre chronologique. "Pourquoi Tom Cruise est la dernière star d'Hollywood ?" Seulement des amateur·rice·s incompétent·e·s mais furieusement enthousiastes.]]></itunes:summary>
+    <itunes:subtitle><![CDATA[Le podcast qui prouve que Tom Cruise est la dernière star d'Hollywood.]]></itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords><![CDATA[cinéma, films, tom cruise, hollywood]]></itunes:keywords>
+    <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+    <itunes:owner>
+      <itunes:name><![CDATA[Serena &amp; Paulin]]></itunes:name>
+      <itunes:email>cruisecontrol@vivaldi.net</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="TV &amp; Film">
+      <itunes:category text="After Shows"/>
+    </itunes:category>
+
+    <item>
+      <title><![CDATA[On a vu Mission : Impossible - Dead Reckoning Part.1]]></title>
+      <description><![CDATA[<p>Épisode hors série... Surement le dernier.<br>On a été voir Mission : Impossible - Dead Reckoning Part.1 ce mercredi 12 juillet 2023, jour de sortie nationale.<br>Le lendemain on s'est retrouvé·e·s pour débriefer.<br>On était sur une terrasse entre une route passante et une voie ferrée. Toutes nos excuses pour la qualité sonore pas dingo.</p><p>Il n'empêche qu'on a causé du film fraîchement sorti.<br>Il y a des spoilers à partir d'un moment, mais on vous prévient.<br>Une discussion avec pas mal de questions sur un film qui ne nous a pas totalement convaincu·e·s.</p><p>Bonne écoute et des bisous les cruisettes.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-on-a-vu-mission-impossible-dead-reckoning-part-point-1</guid>
+      <pubDate>Mon, 17 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/on-a-vu-mission-impossible-dead-reckoning-part-point-1.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2352</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      
+    </item>
+    <item>
+      <title><![CDATA[[ Jour J ] TopCruise - Les meilleurs films part 2]]></title>
+      <description><![CDATA[<p>Aujourd'hui sort au cinéma Mission : Impossible - Dead Reckoning Part.1.<br>Et pour fêter ça, voici un dernier top pour parler encore de la carrière de Tom Cruise et revenir sur ses films marquants.</p><p>Aujourd'hui : Les meilleurs films part 2</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-jour-j-topcruise-les-meilleurs-films-part-2</guid>
+      <pubDate>Wed, 12 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/jour-j-topcruise-les-meilleurs-films-part-2.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>319</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>31</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-1 ] TopCruise - Les meilleurs films part 1]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les meilleurs films part 1</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-1-topcruise-les-meilleurs-films-part-1</guid>
+      <pubDate>Tue, 11 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-1-topcruise-les-meilleurs-films-part-1.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>161</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>30</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-2 ] FlopCruise - Les pires films part 2]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les pires films part 2</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-2-flopcruise-les-pires-films-part-2</guid>
+      <pubDate>Mon, 10 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-2-flopcruise-les-pires-films-part-2.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>161</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>29</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-3 ] FlopCruise - Les pires films part 1]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les pires films part 1</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-3-flopcruise-les-pires-films-part-1</guid>
+      <pubDate>Sun, 09 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-3-flopcruise-les-pires-films-part-1.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>157</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>28</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-4 ] FlopCruise - Les oublis]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les oublis</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-4-flopcruise-les-oublis</guid>
+      <pubDate>Sat, 08 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-4-flopcruise-les-oublis.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>197</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>27</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-5 ] TopCruise - Les scénarios]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les scénarios</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-5-topcruise-les-scenarios</guid>
+      <pubDate>Fri, 07 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-5-topcruise-les-scenarios.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>354</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>26</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-6 ] TopCruise - Le pognon]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Le pognon</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-6-topcruise-le-pognon</guid>
+      <pubDate>Thu, 06 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-6-topcruise-le-pognon.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>213</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>25</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-7 ] TopCruise - Les anecdotes]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les anecdotes</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-7-topcruise-les-anecdotes</guid>
+      <pubDate>Wed, 05 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-7-topcruise-les-anecdotes.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>256</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>24</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-8 ] FlopCruise - Le plus américain]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Le plus américain</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-8-flopcruise-le-plus-americain</guid>
+      <pubDate>Tue, 04 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-8-flopcruise-le-plus-americain.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>282</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>23</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-9 ] TopCruise - Les réalisateurs]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les réalisateurs</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-9-topcruise-les-realisateurs</guid>
+      <pubDate>Mon, 03 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-9-topcruise-les-realisateurs.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>300</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>22</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-10 ] TopCruise - Les bandes-son]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les bandes-son</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-10-topcruise-les-bandes-son</guid>
+      <pubDate>Sun, 02 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-10-topcruise-les-bandes-son.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>163</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>21</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-11 ] TopCruise - Les véhicules]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les véhicules</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-11-topcruise-les-vehicules</guid>
+      <pubDate>Sat, 01 Jul 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-11-topcruise-les-vehicules.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>241</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>20</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-12 ] TopCruise - Les plus beaux films]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les plus beaux films</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-12-topcruise-les-plus-beaux-films</guid>
+      <pubDate>Fri, 30 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-12-topcruise-les-plus-beaux-films.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>229</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-13 ] TopCruise - Les méchants]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les méchants</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-13-topcruise-les-mechants</guid>
+      <pubDate>Thu, 29 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-13-topcruise-les-mechants.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>211</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-14 ] FlopCruise - Les too much]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les too much</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-14-flopcruise-les-too-much</guid>
+      <pubDate>Wed, 28 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-14-flopcruise-les-too-much.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>138</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>17</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-15 ] TopCruise - Le plus iconique]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Le plus iconique</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-15-topcruise-le-plus-iconique</guid>
+      <pubDate>Tue, 27 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-15-topcruise-le-plus-iconique.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>163</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>16</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-16 ] TopCruise - Le plus sexe]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Le plus sexe</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-16-topcruise-le-plus-sexe</guid>
+      <pubDate>Mon, 26 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-16-topcruise-le-plus-sexe.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>152</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-17 ] TopCruise - Les plus woke]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les plus woke</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-17-topcruise-les-plus-woke</guid>
+      <pubDate>Sun, 25 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-17-topcruise-les-plus-woke.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>255</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>14</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-18 ] FlopCruise - Les pires boomers]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les pires boomers</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-18-flopcruise-les-pires-boomers</guid>
+      <pubDate>Sat, 24 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-18-flopcruise-les-pires-boomers.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>215</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>13</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-19 ] FlopCruise - Les défauts]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les défauts</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-19-flopcruise-les-defauts</guid>
+      <pubDate>Fri, 23 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-19-flopcruise-les-defauts.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>298</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-20 ] TopCruise - Les cascades]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les cascades</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-20-topcruise-les-cascades</guid>
+      <pubDate>Thu, 22 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-20-topcruise-les-cascades.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>351</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-21 ] TopCruise - Les performances d'acteur]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les performances d'acteur</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-21-topcruise-les-performances-dacteur</guid>
+      <pubDate>Wed, 21 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-21-topcruise-les-performances-dacteur.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>241</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-22 ] TopCruise - Les bons arguments]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les bons arguments</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-22-topcruise-les-bons-arguments</guid>
+      <pubDate>Tue, 20 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-22-topcruise-les-bons-arguments.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>325</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-23 ] FlopCruise - Les films à enterrer]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les films à enterrer</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-23-flopcruise-les-films-a-enterrer</guid>
+      <pubDate>Mon, 19 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-23-flopcruise-les-films-a-enterrer.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>224</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-24 ] TopCruise - Les films à revoir]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les films à revoir</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-24-topcruise-les-films-a-revoir</guid>
+      <pubDate>Sun, 18 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-24-topcruise-les-films-a-revoir.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>205</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-25 ] TopCruise - Les accessoires et costumes]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les accessoires et costumes</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-25-topcruise-les-accessoires-et-costumes</guid>
+      <pubDate>Sat, 17 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-25-topcruise-les-accessoires-et-costumes.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>218</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-26 ] TopCruise - Les créatures]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les créatures</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-26-topcruise-les-creatures</guid>
+      <pubDate>Fri, 16 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-26-topcruise-les-creatures.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>235</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-27 ] TopCruise - Les collaborateurices]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les collaborateurices</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-27-topcruise-les-collaborateurices</guid>
+      <pubDate>Thu, 15 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-27-topcruise-les-collaborateurices.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>261</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-28 ] FlopCruise - Les moments génants]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les moments génants</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-28-flopcruise-les-moments-genants</guid>
+      <pubDate>Wed, 14 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-28-flopcruise-les-moments-genants.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>222</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-29 ] TopCruise - Les coupes de cheveux]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les coupes de cheveux</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-29-topcruise-les-coupes-de-cheveux</guid>
+      <pubDate>Tue, 13 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-29-topcruise-les-coupes-de-cheveux.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>129</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[ J-30 ] TopCruise - Les partenaires de jeu]]></title>
+      <description><![CDATA[<p>Aujourd'hui : Les partenaires de jeu</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-j-30-topcruise-les-partenaires-de-jeu</guid>
+      <pubDate>Mon, 12 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/j-30-topcruise-les-partenaires-de-jeu.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>244</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[[TEASER] Top et Flop Cruise - Compte à rebours pour Mission : Impossible]]></title>
+      <description><![CDATA[<p>Mieux que pour les fêtes de fin d'année, nous vous présentons notre calendrier de l'avent Mission : Impossible.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-teaser-top-et-flop-cruise-compte-a-rebours-pour-mission-impossible</guid>
+      <pubDate>Tue, 06 Jun 2023 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/teaser-top-et-flop-cruise-compte-a-rebours-pour-mission-impossible.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>95</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      
+    </item>
+    <item>
+      <title><![CDATA[41 Mission : Impossible Fallout - Répercussions]]></title>
+      <description><![CDATA[<p>Quarante-et-unième épisode de Cruise Control. On parle de Mission : Impossible Fallout réalisé par Christopher McQuarrie, sorti en 2018.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-41-mission-impossible-fallout-repercussions</guid>
+      <pubDate>Sun, 23 Apr 2023 16:17:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/41-mission-impossible-fallout-repercussions.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4995</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>41</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[40 American Made - Badinerie Seal]]></title>
+      <description><![CDATA[<p>Quarantième épisode. On cause du film American Made de Doug Liman sorti en 2017.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-40-american-made-badinerie-seal</guid>
+      <pubDate>Tue, 11 Apr 2023 04:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/40-american-made-badinerie-seal.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3900</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>40</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[39 The Mummy - The "meh"mmy]]></title>
+      <description><![CDATA[<p>Trente neuvième épisode. On cause du film The Mummy de Alex Kurtzman sorti en 2017.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-39-the-mummy-the-meh-mmy</guid>
+      <pubDate>Tue, 28 Mar 2023 04:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/39-the-mummy-the-meh-mmy.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4345</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>39</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[38 Jack Reacher: Never Go Back - Never Come Back]]></title>
+      <description><![CDATA[<p>Trente huitième épisode. On parle du film Jack Reacher : Never Go Back de Edward Zwick sorti en 2016.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-38-jack-reacher-never-go-back-never-come-back</guid>
+      <pubDate>Thu, 16 Mar 2023 05:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/38-jack-reacher-never-go-back-never-come-back.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3987</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>38</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[37 Mission: Impossible - Rogue Nation - Cascade de cascades]]></title>
+      <description><![CDATA[<p>Trente sixième épisode. On parle du film Mission : Impossible - Rogue Nation de Christopher McQuarrie sorti en 2015.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-37-mission-impossible-rogue-nation-cascade-de-cascades</guid>
+      <pubDate>Wed, 01 Mar 2023 05:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/37-mission-impossible-rogue-nation-cascade-de-cascades.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4360</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>37</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[36 Edge of tomorrow - Spaghetti à l'encre de seiche]]></title>
+      <description><![CDATA[<p>On parle du film Edge Of Tomorrow de Doug Liman sorti en 2014.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-36-edge-of-tomorrow-spaghetti-a-lencre-de-seiche</guid>
+      <pubDate>Fri, 17 Feb 2023 12:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/36-edge-of-tomorrow-spaghetti-a-lencre-de-seiche.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4347</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>36</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[35 Oblivion - L'oubli]]></title>
+      <description><![CDATA[<p>On parle du film Oblivion de Joseph Kosinski sorti en 2013.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-35-oblivion-loubli</guid>
+      <pubDate>Tue, 31 Jan 2023 05:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/35-oblivion-loubli.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3536</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>35</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[34 Jack Reacher - L'échelle de Reacher]]></title>
+      <description><![CDATA[<p>La réponse dans le film Jack Reacher de Christopher McQuarrie sorti en 2012.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-34-jack-reacher-lechelle-de-reacher</guid>
+      <pubDate>Fri, 06 Jan 2023 05:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/34-jack-reacher-lechelle-de-reacher.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5022</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>34</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[33 Rock Of Ages - Malaise Musical]]></title>
+      <description><![CDATA[<p>On parle du film Rock Of Ages de Adam Shankman sorti en 2012.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-33-rock-of-ages-malaise-musical</guid>
+      <pubDate>Wed, 21 Dec 2022 05:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/33-rock-of-ages-malaise-musical.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4088</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>33</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[32 Mission : Impossible Ghost Protocol - Burj de là !]]></title>
+      <description><![CDATA[<p>On parle de Mission : Impossible - Ghost Protocol, de Brad Bird.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-32-mission-impossible-ghost-protocol-burj-de-la</guid>
+      <pubDate>Wed, 07 Dec 2022 05:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/32-mission-impossible-ghost-protocol-burj-de-la.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4844</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>32</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[31 Knight and day - Tom &amp; Jerry]]></title>
+      <description><![CDATA[<p>On parle de Knight and day de James Mangold sorti en 2010.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-31-knight-and-day-tom-et-jerry</guid>
+      <pubDate>Tue, 22 Nov 2022 05:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/31-knight-and-day-tom-et-jerry.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3948</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>31</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[Les années 2000, Ascension et chute - Bilan en public]]></title>
+      <description><![CDATA[<p>Épisode enregistré en direct le 27 septembre pour le bilan des films des années 2000 !</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-les-annees-2000-ascension-et-chute-bilan-en-public</guid>
+      <pubDate>Tue, 08 Nov 2022 05:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/les-annees-2000-ascension-et-chute-bilan-en-public.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4070</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      
+    </item>
+    <item>
+      <title><![CDATA[30 Valkyrie - Whykyrie ?]]></title>
+      <description><![CDATA[<p>On parle de Valkyrie de Bryan Singer sorti en 2009.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-30-valkyrie-whykyrie</guid>
+      <pubDate>Tue, 16 Aug 2022 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/30-valkyrie-whykyrie.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2988</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>30</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[29 Tropic Thunder - Les Grosses Mains]]></title>
+      <description><![CDATA[<p>On parle du film Tropic Thunder de Ben Stiller sorti en 2008.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-29-tropic-thunder-les-grosses-mains</guid>
+      <pubDate>Tue, 02 Aug 2022 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/29-tropic-thunder-les-grosses-mains.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5258</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>29</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[28 Lions for Lambs - Bêêêeee]]></title>
+      <description><![CDATA[<p>On parle de Lions for lambs, film politique de Robert Redford sorti en 2007.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-28-lions-for-lambs-beeeeee</guid>
+      <pubDate>Tue, 19 Jul 2022 04:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/28-lions-for-lambs-beeeeee.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3391</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>28</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[27 Mission: Impossible III - Micheune Impossimolle]]></title>
+      <description><![CDATA[<p>C'est Mission: Impossible III sorti en 2006.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-27-mission-impossible-iii-micheune-impossimolle</guid>
+      <pubDate>Tue, 05 Jul 2022 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/27-mission-impossible-iii-micheune-impossimolle.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4156</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>27</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[26 War of the worlds - Didjeridoo vs Bactérie]]></title>
+      <description><![CDATA[<p>Un épisode consacré à War Of The Worlds, sorti en 2005.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-26-war-of-the-worlds-didjeridoo-vs-bacterie</guid>
+      <pubDate>Thu, 23 Jun 2022 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/26-war-of-the-worlds-didjeridoo-vs-bacterie.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5458</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>26</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[On a vu Top Gun : Maverick ! ✈️]]></title>
+      <description><![CDATA[<p>Épisode hors série. On a été voir Top Gun : Maverick en avant première le 24 mai.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-on-a-vu-top-gun-maverick</guid>
+      <pubDate>Sun, 12 Jun 2022 08:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/on-a-vu-top-gun-maverick.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2381</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      
+    </item>
+    <item>
+      <title><![CDATA[On va voir Top Gun : Maverick ! On est à bloc !]]></title>
+      <description><![CDATA[<p>Épisode très spécial et très hors série. On va voir Top Gun : Maverick en avant première le 24 mai.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-on-va-voir-top-gun-maverick-on-est-a-bloc</guid>
+      <pubDate>Wed, 01 Jun 2022 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/on-va-voir-top-gun-maverick-on-est-a-bloc.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1402</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      
+    </item>
+    <item>
+      <title><![CDATA[25 Collateral - Coyote Latéral]]></title>
+      <description><![CDATA[<p>C'est Collateral le film de Michael Mann sorti en 2004.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-25-collateral-coyote-lateral</guid>
+      <pubDate>Tue, 24 May 2022 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/25-collateral-coyote-lateral.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3495</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>25</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[24 The Last Samurai - Oscar Seppuku]]></title>
+      <description><![CDATA[<p>C'est The Last Samurai d'Edward Zwick sorti en 2003.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-24-the-last-samurai-oscar-seppuku</guid>
+      <pubDate>Tue, 10 May 2022 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/24-the-last-samurai-oscar-seppuku.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4229</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>24</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[23 Minority Report - Photonique la police]]></title>
+      <description><![CDATA[<p>C'est Minority Report sorti en 2002 et réalisé par Steven Spielberg.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-23-minority-report-photonique-la-police</guid>
+      <pubDate>Wed, 27 Apr 2022 05:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/23-minority-report-photonique-la-police.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4875</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>23</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[22 Vanilla Sky - Un ciel couleur caca]]></title>
+      <description><![CDATA[<p>On a regardé Vanilla Sky de Cameron Crowe sorti en 2001.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-22-vanilla-sky-un-ciel-couleur-caca</guid>
+      <pubDate>Tue, 12 Apr 2022 10:12:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/22-vanilla-sky-un-ciel-couleur-caca.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3159</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>22</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[21 Mission : Impossible II - Scooby-Woo]]></title>
+      <description><![CDATA[<p>Mission : Impossible II de John Woo sorti en 2000.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-21-mission-impossible-ii-scooby-woo</guid>
+      <pubDate>Tue, 29 Mar 2022 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/21-mission-impossible-ii-scooby-woo.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3949</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>21</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[20 Magnolia - Après la pluie vient le beau temps...]]></title>
+      <description><![CDATA[<p>C'est le début de la saison 3. Magnolia de Paul Thomas Anderson sorti en 2000.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-20-magnolia-apres-la-pluie-vient-le-beau-temps-point-point-point</guid>
+      <pubDate>Tue, 15 Mar 2022 10:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/20-magnolia-apres-la-pluie-vient-le-beau-temps-point-point-point.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4675</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>20</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[Les années 90, un presque sans faute ? - Bilan en public]]></title>
+      <description><![CDATA[<p>Épisode bilan des années 90, enregistré en public le 8 février.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-les-annees-90-un-presque-sans-faute-bilan-en-public</guid>
+      <pubDate>Tue, 15 Feb 2022 10:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/les-annees-90-un-presque-sans-faute-bilan-en-public.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4088</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      
+    </item>
+    <item>
+      <title><![CDATA[Battlefield Earth - Pauvre Johnny Boy]]></title>
+      <description><![CDATA[<p>Deuxième épisode hors série, la scientologie pour les guignols. On vous parle de Battlefield Earth.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-battlefield-earth-pauvre-johnny-boy</guid>
+      <pubDate>Tue, 01 Feb 2022 10:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/battlefield-earth-pauvre-johnny-boy.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3973</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      
+    </item>
+    <item>
+      <title><![CDATA[Going Clear Scientology and the prison of belief]]></title>
+      <description><![CDATA[<p>On vous parle du film documentaire d'Alex Gibney : Going Clear Scientology and the prison of belief.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-going-clear-scientology-and-the-prison-of-belief</guid>
+      <pubDate>Tue, 18 Jan 2022 10:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/going-clear-scientology-and-the-prison-of-belief.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5330</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      
+    </item>
+    <item>
+      <title><![CDATA[19 Eyes Wide Shut - 🎄 🍑 🍆 🎄]]></title>
+      <description><![CDATA[<p>On parle de Eyes Wide Shut de Stanley Kubrick sorti en 1999.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-19-eyes-wide-shut</guid>
+      <pubDate>Tue, 04 Jan 2022 10:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/19-eyes-wide-shut.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4341</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[18 Jerry Maguire - Help me to help me]]></title>
+      <description><![CDATA[<p>On parle de Jerry Maguire de Cameron Crowe sorti en 1997.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-18-jerry-maguire-help-me-to-help-me</guid>
+      <pubDate>Tue, 21 Dec 2021 10:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/18-jerry-maguire-help-me-to-help-me.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4196</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[17 Mission: Impossible - C'est vrai que c'est pas super simple]]></title>
+      <description><![CDATA[<p>Mission: Impossible de Brian De Palma sorti en 1996.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-17-mission-impossible-cest-vrai-que-cest-pas-super-simple</guid>
+      <pubDate>Tue, 07 Dec 2021 10:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/17-mission-impossible-cest-vrai-que-cest-pas-super-simple.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4538</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>17</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[16 Interview With The Vampire - Ravages du végétarisme]]></title>
+      <description><![CDATA[<p>On parle de Interview With The Vampire de Neil Jordan sorti en 1994.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-16-interview-with-the-vampire-ravages-du-vegetarisme</guid>
+      <pubDate>Tue, 23 Nov 2021 10:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/16-interview-with-the-vampire-ravages-du-vegetarisme.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4993</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>16</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[15 The Firm - L'important c'est la stabilité]]></title>
+      <description><![CDATA[<p>On parle de The Firm de Sidney Pollack sorti en 1993.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-15-the-firm-limportant-cest-la-stabilite</guid>
+      <pubDate>Tue, 09 Nov 2021 10:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/15-the-firm-limportant-cest-la-stabilite.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3749</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[14 A Few Good Men - Red Code! Red Code! Red Code!]]></title>
+      <description><![CDATA[<p>Il s'agit de A Few Good Men de Rob Reiner sorti en 1992.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-14-a-few-good-men-red-code-red-code-red-code</guid>
+      <pubDate>Tue, 26 Oct 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/14-a-few-good-men-red-code-red-code-red-code.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3873</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>14</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[13 Far And Away - Loin et ... Lointain ?]]></title>
+      <description><![CDATA[<p>Far And Away de Ron Howard sorti en 1992.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-13-far-and-away-loin-et-point-point-point-lointain</guid>
+      <pubDate>Tue, 12 Oct 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/13-far-and-away-loin-et-point-point-point-lointain.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3722</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>13</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[12 Days Of Thunder - Quand j'examine... J'examine !]]></title>
+      <description><![CDATA[<p>C'est le début de la saison 2 qui couvre les années 90. Days Of Thunder de Tony Scott sorti en 1990.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-12-days-of-thunder-quand-jexamine-point-point-point-jexamine</guid>
+      <pubDate>Tue, 28 Sep 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/12-days-of-thunder-quand-jexamine-point-point-point-jexamine.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3656</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[Les années 80, c'est enfin la fin - Bilan en public]]></title>
+      <description><![CDATA[<p>Épisode bilan des années 80, enregistré en public le 2 juillet.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-les-annees-80-cest-enfin-la-fin-bilan-en-public</guid>
+      <pubDate>Tue, 03 Aug 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/les-annees-80-cest-enfin-la-fin-bilan-en-public.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4583</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      
+    </item>
+    <item>
+      <title><![CDATA[11 Born On The 4th Of July - Baurnonneeuforffofjoulaï]]></title>
+      <description><![CDATA[<p>On parle de Born on the 4th of July d'Oliver Stone sorti en 1989.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-11-born-on-the-4th-of-july-baurnonneeuforffofjoulai</guid>
+      <pubDate>Tue, 20 Jul 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/11-born-on-the-4th-of-july-baurnonneeuforffofjoulai.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3274</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[10 Rain Man - C'était comment ? Mouillé.]]></title>
+      <description><![CDATA[<p>On vous parle du film Rain Man de Barry Levinson sorti en 1989.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-10-rain-man-cetait-comment-mouille</guid>
+      <pubDate>Tue, 06 Jul 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/10-rain-man-cetait-comment-mouille.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3875</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[Un message de Tom Cruise]]></title>
+      <description><![CDATA[<p>On a reçu un message de Tom qui veut faire la promotion de notre premier enregistrement en direct !</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-un-message-de-tom-cruise</guid>
+      <pubDate>Fri, 25 Jun 2021 10:12:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/un-message-de-tom-cruise.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>72</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      
+    </item>
+    <item>
+      <title><![CDATA[09 Cocktail - Poète en mousse de bière]]></title>
+      <description><![CDATA[<p>On s'attaque à Cocktail de Roger Donaldson sorti en 1988.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-09-cocktail-poete-en-mousse-de-biere</guid>
+      <pubDate>Tue, 22 Jun 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/09-cocktail-poete-en-mousse-de-biere.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3275</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[08 The Color Of Money - Balabouchquoi ?]]></title>
+      <description><![CDATA[<p>On vous parle de The Color Of Money de Martin Scorsese sorti en 1986.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-08-the-color-of-money-balabouchquoi</guid>
+      <pubDate>Tue, 08 Jun 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/08-the-color-of-money-balabouchquoi.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2889</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[07 Top Gun - Est ce que je peux prendre une douche ?]]></title>
+      <description><![CDATA[<p>On vous parle de Top Gun de Tony Scott sorti en 1986.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-07-top-gun-est-ce-que-je-peux-prendre-une-douche</guid>
+      <pubDate>Tue, 25 May 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/07-top-gun-est-ce-que-je-peux-prendre-une-douche.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3735</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[06 Legend - Paillettes, bulles de savon et lord of darkness]]></title>
+      <description><![CDATA[<p>On vous parle de Legend de Ridley Scott sorti en 1985.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-06-legend-paillettes-bulles-de-savon-et-lord-of-darkness</guid>
+      <pubDate>Tue, 11 May 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/06-legend-paillettes-bulles-de-savon-et-lord-of-darkness.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2650</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[05 All The Right Moves - Presque Flashdance]]></title>
+      <description><![CDATA[<p>On vous parle de All The Right Moves de Michael Chapman sorti en 1983.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-05-all-the-right-moves-presque-flashdance</guid>
+      <pubDate>Tue, 27 Apr 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/05-all-the-right-moves-presque-flashdance.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2303</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[04 Risky Business - Ray-Ban lui dit merci]]></title>
+      <description><![CDATA[<p>On vous parle de Risky Business de Paul Brickman sorti en 1983.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-04-risky-business-ray-ban-lui-dit-merci</guid>
+      <pubDate>Tue, 13 Apr 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/04-risky-business-ray-ban-lui-dit-merci.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2773</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[03 Losin'It - Tequila Toxique]]></title>
+      <description><![CDATA[<p>On vous parle de Losin'it de Curtis Hanson sorti en 1983.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-03-losinit-tequila-toxique</guid>
+      <pubDate>Tue, 30 Mar 2021 09:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/03-losinit-tequila-toxique.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1888</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[02 The Outsiders - Cheveux gras et salto arrière]]></title>
+      <description><![CDATA[<p>On continue avec The Outsiders de Francis Ford Coppola sorti en 1983.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-02-the-outsiders-cheveux-gras-et-salto-arriere</guid>
+      <pubDate>Tue, 16 Mar 2021 10:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/02-the-outsiders-cheveux-gras-et-salto-arriere.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2745</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title><![CDATA[01 TAPS - quand des militaires deviennent squatteurs]]></title>
+      <description><![CDATA[<p>On démarre avec TAPS d'Harold Becker, sorti en 1981.</p>]]></description>
+      <link>https://cruisecontrol.carrd.co</link>
+      <guid isPermaLink="false">cruisecontrol-01-taps-quand-des-militaires-deviennent-squatteurs</guid>
+      <pubDate>Tue, 23 Feb 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/cruisecontrol-podcast/01-taps-quand-des-militaires-deviennent-squatteurs.mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2335</itunes:duration>
+      <itunes:author><![CDATA[Serena &amp; Paulin]]></itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
