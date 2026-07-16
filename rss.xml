@@ -17,7 +17,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
     <copyright><![CDATA[Serena & Paulin]]></copyright>
     <managingEditor><![CDATA[cruisecontrol@vivaldi.net (Serena & Paulin)]]></managingEditor>
     <image>
-      <url>https://archive.org/download/cruisecontrol-podcast/cover.jpg</url>
+      <url>https://archive.org/download/cruisecontrol-podcast/00cover.jpg</url>
       <title>Cruise Control</title>
       <link>https://cruisecontrol.carrd.co</link>
     </image>
@@ -27,7 +27,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
     <itunes:subtitle><![CDATA[Le podcast qui prouve que Tom Cruise est la dernière star d'Hollywood.]]></itunes:subtitle>
     <itunes:explicit>no</itunes:explicit>
     <itunes:keywords><![CDATA[cinéma, films, tom cruise, hollywood]]></itunes:keywords>
-    <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+    <itunes:image href="https://archive.org/download/cruisecontrol-podcast/00cover.jpg"/>
     <itunes:owner>
       <itunes:name><![CDATA[Serena & Paulin]]></itunes:name>
       <itunes:email>cruisecontrol@vivaldi.net</itunes:email>
@@ -44,7 +44,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-on-a-vu-mission-impossible-dead-reckoning-part-point-1</guid>
       <pubDate>Mon, 17 Jul 2023 04:30:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/on-a-vu-mission-impossible-dead-reckoning-part-point-1.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/00cover.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>2352</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -59,7 +59,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-jour-j-topcruise-les-meilleurs-films-part-2</guid>
       <pubDate>Wed, 12 Jul 2023 04:30:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/jour-j-topcruise-les-meilleurs-films-part-2.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/00cover.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>319</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -746,7 +746,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-les-annees-2000-ascension-et-chute-bilan-en-public</guid>
       <pubDate>Tue, 08 Nov 2022 05:30:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/les-annees-2000-ascension-et-chute-bilan-en-public.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/HS7Live00s.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>4070</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -761,7 +761,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-30-valkyrie-whykyrie</guid>
       <pubDate>Tue, 16 Aug 2022 04:30:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/30-valkyrie-whykyrie.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/30valkyrie.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>2988</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -777,7 +777,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-29-tropic-thunder-les-grosses-mains</guid>
       <pubDate>Tue, 02 Aug 2022 04:30:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/29-tropic-thunder-les-grosses-mains.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/29tropicthunder.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>5258</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -793,7 +793,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-28-lions-for-lambs-beeeeee</guid>
       <pubDate>Tue, 19 Jul 2022 04:30:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/28-lions-for-lambs-beeeeee.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/28lionsforlamb.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>3391</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -809,7 +809,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-27-mission-impossible-iii-micheune-impossimolle</guid>
       <pubDate>Tue, 05 Jul 2022 09:11:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/27-mission-impossible-iii-micheune-impossimolle.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/27missionimpossible3.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>4156</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -825,7 +825,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-26-war-of-the-worlds-didjeridoo-vs-bacterie</guid>
       <pubDate>Thu, 23 Jun 2022 09:11:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/26-war-of-the-worlds-didjeridoo-vs-bacterie.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/26waroftheworlds.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>5458</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -841,7 +841,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-on-a-vu-top-gun-maverick</guid>
       <pubDate>Sun, 12 Jun 2022 08:30:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/on-a-vu-top-gun-maverick.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/HS6Onavutopgunmaverick.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>2381</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -856,7 +856,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-on-va-voir-top-gun-maverick-on-est-a-bloc</guid>
       <pubDate>Wed, 01 Jun 2022 09:11:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/on-va-voir-top-gun-maverick-on-est-a-bloc.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/HS5Onvavoirtopgunmaverick.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>1402</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -871,7 +871,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-25-collateral-coyote-lateral</guid>
       <pubDate>Tue, 24 May 2022 09:11:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/25-collateral-coyote-lateral.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/25collateral.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>3495</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -887,7 +887,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-24-the-last-samurai-oscar-seppuku</guid>
       <pubDate>Tue, 10 May 2022 09:11:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/24-the-last-samurai-oscar-seppuku.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/24thelastsamurai.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>4229</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -903,7 +903,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-23-minority-report-photonique-la-police</guid>
       <pubDate>Wed, 27 Apr 2022 05:30:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/23-minority-report-photonique-la-police.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/23minorityreport.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>4875</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -919,7 +919,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-22-vanilla-sky-un-ciel-couleur-caca</guid>
       <pubDate>Tue, 12 Apr 2022 10:12:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/22-vanilla-sky-un-ciel-couleur-caca.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/22vanillasky.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>3159</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -935,7 +935,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-21-mission-impossible-ii-scooby-woo</guid>
       <pubDate>Tue, 29 Mar 2022 09:11:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/21-mission-impossible-ii-scooby-woo.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/21missionimpossible2.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>3949</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -951,7 +951,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-20-magnolia-apres-la-pluie-vient-le-beau-temps-point-point-point</guid>
       <pubDate>Tue, 15 Mar 2022 10:11:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/20-magnolia-apres-la-pluie-vient-le-beau-temps-point-point-point.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/20magnolia.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>4675</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
@@ -1187,7 +1187,7 @@ Attention, aucun expert ne donne son avis... seulement des amateur·rice·s inco
       <guid isPermaLink="false">cruisecontrol-un-message-de-tom-cruise</guid>
       <pubDate>Fri, 25 Jun 2021 10:12:00 +0000</pubDate>
       <enclosure url="https://archive.org/download/cruisecontrol-podcast/un-message-de-tom-cruise.mp3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/cover.jpg"/>
+      <itunes:image href="https://archive.org/download/cruisecontrol-podcast/00cover.jpg"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>72</itunes:duration>
       <itunes:author><![CDATA[Serena & Paulin]]></itunes:author>
